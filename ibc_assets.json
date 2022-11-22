@@ -1,0 +1,30 @@
+{
+  "tokens": [
+    {
+      "id": "cosmos",
+      "name": "ATOM",
+      "symbol": "ATOM",
+      "chain_id": "cosmoshub-4",
+      "rpc": "https://rpc.cosmos.directory:443/cosmoshub",
+      "denom": "uatom",
+      "decimals": 6,
+      "channel": "channel-207",
+      "scrt_channel": "channel-1",
+      "scrt_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+      "logoURI": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/atom.png"
+    },
+    {
+      "id": "osmosis",
+      "name": "OSMO",
+      "symbol": "OSMO",
+      "chain_id": "osmosis-1",
+      "rpc": "https://rpc-osmosis.itastakers.com:443",
+      "denom": "uosmo",
+      "decimals": 6,
+      "channel": "channel-42",
+      "scrt_channel": "channel-0",
+      "scrt_denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+      "logoURI": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/osmo.png"
+    }
+  ]
+  }
