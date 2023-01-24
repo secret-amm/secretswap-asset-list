@@ -46,8 +46,8 @@
       {
         "chainId": "osmosis-1",
         "chainName": "Osmosis",
-        "rpc": "",
-        "rest": "https://juno-api.polkachu.com",
+        "rpc": "https://osmosis-rpc.polkachu.com/",
+        "rest": "https://osmosis-api.polkachu.com/",
         "stakeCurrency": {
           "coinDenom": "OSMO",
           "coinMinimalDenom": "uosmo",
