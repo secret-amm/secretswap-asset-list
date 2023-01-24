@@ -1,8 +1,8 @@
 {
-  "chainId": "pulsar-2",
-  "chainName": "Pulsar Testnet",
-  "rpc": "https://rpc.testnet.secretsaturn.net",
-  "rest": "http://testnet.securesecrets.org:1317/",
+  "chainId": "secret-4",
+  "chainName": "Secret Network",
+  "rpc": "https://secretnetwork-rpc.stakely.io",
+  "rest": "https://api.scrt.network/",
   "stakeCurrency": {
     "coinDenom": "SCRT",
     "coinMinimalDenom": "uscrt",

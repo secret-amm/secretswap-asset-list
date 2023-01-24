@@ -1,0 +1,14 @@
+{
+    "factory": {
+        "contract_addr": "secret14g8htq2gehxxzfckfvjfnc5dcj58zfr6su26lh",
+        "contract_code_hash": "f5d18c9945a0241ff8edfb2312d2ea33fa9442b8130bbfb5360afe4c7466fb58"
+    },
+    "gov_token": {
+        "contract_addr": "",
+        "contract_code_hash": ""
+    },
+    "router": {
+        "contract_addr": "secret1wgu754rs7fh5xrwx32gdkd5mtatfthudchqlrq",
+        "contract_code_hash": "483c54315e71f0725c916708f6a16e70599da6445a1041f9da193149ae6cc978"
+    }
+}

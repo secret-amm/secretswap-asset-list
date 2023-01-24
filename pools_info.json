@@ -1,0 +1,28 @@
+{
+  "pairs": [
+    {
+      "pair_name": "SSTI-SCRT",
+      "asset_infos": [
+        "SSTI",
+        "SCRT"
+      ],
+      "contract_addr": "secret17vvusdg6s9jrquezcs7yyp6p4524q9ht8zyjxw",
+      "contract_code_hash": "03b2f2f15344d5517a2926669c7a49a2793fa535d7c4abad71431d01d156710c",
+      "liquidity_token": "secret1dj8l2ysnzrn5g7vufxrxg89jz7urv5zvk0nwj0",
+      "liquidity_token_hash": "6961c5026649e95a832bba8a8610bf9791d0a2755a2e6a57c326700125a3ef2c",
+      "pair_type": "xyk"
+    },
+    {
+      "pair_name": "SSTI-SSTJ",
+      "asset_infos": [
+        "SSTI",
+        "SSTJ"
+      ],
+      "contract_addr": "secret14r53dpq9te8lmfr9yy9vkfln4k97p7nt8axj0f",
+      "contract_code_hash": "03b2f2f15344d5517a2926669c7a49a2793fa535d7c4abad71431d01d156710c",
+      "liquidity_token": "secret10j5yzzuezn9dtt9keewrjkx39qggua7hla7n8t",
+      "liquidity_token_hash": "6961c5026649e95a832bba8a8610bf9791d0a2755a2e6a57c326700125a3ef2c",
+      "pair_type": "xyk"
+    }
+  ]
+}

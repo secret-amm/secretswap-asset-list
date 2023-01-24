@@ -1,0 +1,82 @@
+{
+  "assets": [
+    {
+      "name": "Secret Network Token",
+      "denom": "uscrt",
+      "display_denom": "SCRT",
+      "description": "Native token for Secret network",
+      "contract_addr": null,
+      "contract_code_hash": null,
+      "native_denom": "uscrt",
+      "coingecko_id": "secret",
+      "decimals": 6,
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/scrt.png",
+        "svg": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/scrt.svg"
+      }
+    },
+    {
+      "name": "Juno Network Token",
+      "denom": "ujuno",
+      "display_denom": "JUNO",
+      "description": "Native token for Juno network",
+      "contract_addr": null,
+      "contract_code_hash": null,
+      "native_denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006",
+      "coingecko_id": "juno-network",
+      "ibc": {
+        "src_chain_id": "juno-1",
+        "src_channel": "channel-48",
+        "scrt_channel": "channel-8",
+        "denom": "ujuno",
+        "scrt_denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006",
+        "snip_addr": "secret1smmc5k24lcn4j2j8f3w0yaeafga6wmzl0qct03",
+        "snip_code_hash": "ad91060456344fc8d8e93c0600a3957b8158605c044b3bef7048510b3157b807"
+      },
+      "decimals": 6,
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/juno.png",
+        "svg": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/juno.svg"
+      }
+    },
+    {
+      "name": "Osmosis Network Token",
+      "denom": "uosmo",
+      "display_denom": "OSMO",
+      "description": "Native token for Osmosis network",
+      "contract_addr": null,
+      "contract_code_hash": null,
+      "native_denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+      "coingecko_id": "osmosis",
+      "ibc": {
+        "src_chain_id": "osmosis-1",
+        "src_channel": "channel-88",
+        "scrt_channel": "channel-1",
+        "denom": "uosmo",
+        "scrt_denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+        "snip_addr": "secret1zwwealwm0pcl9cul4nt6f38dsy6vzplw8lp3qg",
+        "snip_code_hash": "ad91060456344fc8d8e93c0600a3957b8158605c044b3bef7048510b3157b807"
+      },
+      "decimals": 6,
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/osmo.png",
+        "svg": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/osmo.svg"
+      }
+    },
+    {
+      "name": "Secret Test Token B",
+      "denom": "sstj",
+      "display_denom": "SSTJ",
+      "description": "Just another test token on testnet",
+      "contract_addr": "secret1m00z2mnhdjw9384tlzxrjrcyu7x8nd7wh3dlc8",
+      "contract_code_hash": "48b740838cadb426f303066aafa30df687310775391bc68a89a3d9062b588ef6",
+      "native_denom": null,
+      "coingecko_id": "seasy",
+      "decimals": 6,
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/seasy.png",
+        "svg": "https://raw.githubusercontent.com/secret-amm/secretswap-asset-list/main/images/seasy.svg"
+      }
+    }
+  ]
+}

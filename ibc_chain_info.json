@@ -1,0 +1,90 @@
+{
+    "chains": [
+      {
+        "chainId": "juno-1",
+        "chainName": "Juno",
+        "rpc": "https://juno-rpc.polkachu.com/",
+        "rest": "https://juno-api.polkachu.com/",
+        "stakeCurrency": {
+          "coinDenom": "JUNO",
+          "coinMinimalDenom": "ujuno",
+          "coinDecimals": 6
+        },
+        "bip44": {
+          "coinType": 118
+        },
+        "bech32Config": {
+          "bech32PrefixAccAddr": "juno",
+          "bech32PrefixAccPub": "junopub",
+          "bech32PrefixValAddr": "junovaloper",
+          "bech32PrefixValPub": "junovaloperpub",
+          "bech32PrefixConsAddr": "junovalcons",
+          "bech32PrefixConsPub": "junovalconspub"
+        },
+        "currencies": [
+          {
+            "coinDenom": "JUNO",
+            "coinMinimalDenom": "ujuno",
+            "coinDecimals": 6
+          }
+        ],
+        "feeCurrencies": [
+          {
+            "coinDenom": "JUNO",
+            "coinMinimalDenom": "ujuno",
+            "coinDecimals": 6
+          }
+        ],
+        "coinType": 118,
+        "gasPriceStep": {
+          "low": 0.2,
+          "average": 0.5,
+          "high": 0.9
+        },
+        "features": ["cosmwasm"]
+      },
+      {
+        "chainId": "osmosis-1",
+        "chainName": "Osmosis",
+        "rpc": "",
+        "rest": "https://juno-api.polkachu.com",
+        "stakeCurrency": {
+          "coinDenom": "OSMO",
+          "coinMinimalDenom": "uosmo",
+          "coinDecimals": 6
+        },
+        "bip44": {
+          "coinType": 118
+        },
+        "bech32Config": {
+          "bech32PrefixAccAddr": "osmo",
+          "bech32PrefixAccPub": "osmopub",
+          "bech32PrefixValAddr": "osmovaloper",
+          "bech32PrefixValPub": "osmovaloperpub",
+          "bech32PrefixConsAddr": "osmovalcons",
+          "bech32PrefixConsPub": "osmovalconspub"
+        },
+        "currencies": [
+          {
+            "coinDenom": "OSMO",
+            "coinMinimalDenom": "uosmo",
+            "coinDecimals": 6
+          }
+        ],
+        "feeCurrencies": [
+          {
+            "coinDenom": "OSMO",
+            "coinMinimalDenom": "uosmo",
+            "coinDecimals": 6
+          }
+        ],
+        "coinType": 118,
+        "gasPriceStep": {
+          "low": 0.2,
+          "average": 0.5,
+          "high": 0.9
+        },
+        "features": ["cosmwasm"]
+      }
+    ]
+  }
